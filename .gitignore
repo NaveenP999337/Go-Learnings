@@ -1,0 +1,28 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+helloWorld
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Build directories
+bin/
+dist/
+
